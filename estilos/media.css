@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 700px) {
+
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 500px;
+        height: 350px;
+    }
+
+    picture > img {
+        height: 350px;
+        border-radius: 10px 0px 0px 10px;
+    }
+
+    button {
+        width: 224px;
+        height: 40px;
+    }
+
+  }
