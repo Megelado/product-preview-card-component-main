@@ -2,4 +2,4 @@
  um card de produto
 
 
-[clique aqui](https://megelado.io/product-preview-card-component-main/)
+[clique aqui](https://megelado.github.io/product-preview-card-component-main/)
